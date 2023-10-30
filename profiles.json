@@ -1,0 +1,87 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ddd6a378",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "2.1. Combination"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4be64ae9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "A1, A2, A3, 1A, 2A, 1C, B1, B2, B3, 1B, 2B, 3B, \n",
+    "C1, C2, C3, 1C, 2C, 3C"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b4b9dc32",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "2.2 Combination"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1e786440",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "AA, AB, AC, AD, BA, BB, BC, BD, CA, CB, CC, CD, DA, DB, \n",
+    "DC, DD"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "477c45d1",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "2.3 Permuations"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2cbeb4c4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "AB, AC, AD, BA, BC, BD, CA, CB, CD, DA, DB, DC"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
